@@ -18,4 +18,16 @@
 
 Вот как это выглядит:
 
-![](https://github.com/ilyachalov/ya-handbook-cpp/blob/main/images/cpp-tools.png)
+![](images/cpp-tools.png)
+
+## Измерение времени работы программ
+
+Из операционных систем Linux это можно сделать с помощью утилиты `time`. Я использую систему Ubuntu через подсистему WSL (Windows Subsystem for Linux):
+
+![](images/time-ubuntu-wsl.png)
+
+Из операционной системы Windows 10 это можно сделать с помощью командлета `Measure-Command`:
+
+![](images/measure-command.png)
+
+Подробнее об этом я [написал](https://ilyachalov.livejournal.com/381382.html) у себя в блоге.
